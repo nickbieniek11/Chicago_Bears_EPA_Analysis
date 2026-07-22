@@ -26,3 +26,18 @@ Data cleaning,
 Exploratory Data Analysis,
 Data visualization,
 Sports analytics
+
+To view the code for the Offensive Analysis view:
+[Passing vs Rushing EPA.R]
+For the chart:
+[Offense Rush vs Pass EPA .png]
+
+To view the code for the Defensive Analysis view:
+[Defense Passing vs Rush EPA.R]
+For the chart:
+[Fixed Defense EPA.png]
+
+To view the code for the Offensive and Defensive Analysis view:
+[Offense vs Defense EPA .R]
+For the chart:
+[Offense vs Defense EPA.png]
