@@ -19,7 +19,7 @@ Key Findings:
 The Chicago Bears won 66% of their games when Offensive Passing EPA exceeded Offensive Rushing EPA in comparison to about 57% of games won when Offensive Rushing EPA exceedeed Offensive Passing EPA.
 Defensively, the Chicago Bears Rushing EPA stayed fairly consistent throughout the season whereas the Passing EPA fluctuated massively week to week. The difference in opposing teams quarterback play could play a role in this fluctuation.
 The Chicago Bears only lost 2 games when their Defensive Rushing EPA was higher than their Defensive Passing EPA and won 75% of those games. This shows that the Bears need to improve their Passing Defense.
-Comparing both sides of the ball, the Chicago Bears won about 85% of their games when the Offense played better than the defense in terms of EPA. There was only 1 game in which the defense played better than the offense and they won.
+Comparing both sides of the ball, the Chicago Bears only won 33% of their games when the defense gave up more that .05 Mean EPA, when the defense was underperforming. The offense is very similiar, only winning 33% of their games when they are underperforming.
 
 Skills Demonstrated:
 Data cleaning,
